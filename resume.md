@@ -49,7 +49,9 @@ NEW YORK, NY
 BSc., Applied Mathematics
 AUG 2003 - MAY 2007
 
-Honors: Columbia Ronald Kurtz Scholar (2003-2007), Columbia Dean’s List (Spring 2004, Fall 2004, Fall 2005) Coursework: Advanced Engineering Mathematics, Statistics & Probability, Energy Engineering. Financial Accounting, Intermediate Accounting, Corporate Finance (Columbia Business School)
+Honors: Columbia Ronald Kurtz Scholar (2003-2007), Columbia Dean’s List (Spring 2004, Fall 2004, Fall 2005)
+
+Coursework: Advanced Engineering Mathematics, Statistics & Probability, Energy Engineering. Financial Accounting, Intermediate Accounting, Corporate Finance (Columbia Business School)
 
 SKILLS
 SOFTWARE: MS Office Suites, working knowledge of Bloomberg, JavaScirpt, SQL, Ruby, HTML, CSS, VBA.
